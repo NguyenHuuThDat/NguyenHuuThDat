@@ -27,7 +27,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
+    <img src="https://img.icons8.com/windows/48/000000/instagram.png"/>
   </a>
   <a href="mailto:huudatnh178@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
