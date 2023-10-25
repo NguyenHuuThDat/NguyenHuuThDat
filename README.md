@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Huu Dat
 - 👀 I’m interested in coding, game, music & sleep
-- 🌱 I’m currently learning HTML, CSS, JS
-- 📫 Contact with me at: https://beacons.ai/huudat178
+- 🌱 I’m currently learning HTML5, CSS3, JS, C#.NET
