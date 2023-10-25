@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Huu Dat
-- 👀 I’m interested in coding, game, music & sleep
-- 🌱 I’m currently learning HTML5, CSS3, JS, C#.NET
