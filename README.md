@@ -14,20 +14,14 @@
 <!-- [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nguyenhuuthanhdat/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
   <a href="https://www.facebook.com/huudat178/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/NguyenHuuThDat" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/instagram.png"/>
+  <a href="https://www.linkedin.com/in/nguyenhuuthanhdat/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="mailto:huudatnh178@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
