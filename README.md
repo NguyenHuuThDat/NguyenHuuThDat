@@ -26,6 +26,9 @@
   <a href="mailto:huudatnh178@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+   <a href="https://www.instagram.com/hdatkosuyy" alt="Instagram">
+    <img src="[https://img.icons8.com/fluent/48/000000/mailing.png](https://icons8.com/icon/Xy10Jcu1L2Su/instagram)"/>
+  </a>
 </p>
 
 ## Skills:
