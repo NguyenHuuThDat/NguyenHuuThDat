@@ -1,6 +1,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NguyenHuuThDat&theme=dracula&locale=vi)](https://git.io/streak-stats)
 
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="center" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Nguyen Huu Thanh Dat</h1>
 <p align="center">
   <h3 align="center">A PHP developer from Vietnam 🇻🇳 </h3>
