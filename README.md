@@ -1,4 +1,6 @@
+<div style="align=center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NguyenHuuThDat&theme=dracula&locale=vi)](https://git.io/streak-stats)
+</div>
 
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Nguyen Huu Thanh Dat</h1>
